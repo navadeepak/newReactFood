@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newReactFood/static/css/main.afda91e5.css",
+    "main.js": "/newReactFood/static/js/main.802b4669.js",
+    "static/js/453.2cecc6e0.chunk.js": "/newReactFood/static/js/453.2cecc6e0.chunk.js",
+    "static/media/1248724.png": "/newReactFood/static/media/1248724.5e9212de61d5d416edda.png",
+    "index.html": "/newReactFood/index.html",
+    "main.afda91e5.css.map": "/newReactFood/static/css/main.afda91e5.css.map",
+    "main.802b4669.js.map": "/newReactFood/static/js/main.802b4669.js.map",
+    "453.2cecc6e0.chunk.js.map": "/newReactFood/static/js/453.2cecc6e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afda91e5.css",
+    "static/js/main.802b4669.js"
+  ]
+}
